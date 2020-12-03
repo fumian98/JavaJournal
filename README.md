@@ -8,3 +8,6 @@ Oracle官网下载JDK15(exe版本）到本地，编辑系统环境变量：添�
 JetBrains官网下载IDEA安装包（学生可以申请Ultimate版）
 在File->settings里配置界面和JDK Version
 禁用Android Plugins
+#### 金老师推荐书籍
+《计算机组成原理》
+《编码：隐匿在计算机软硬件背后的语言》
